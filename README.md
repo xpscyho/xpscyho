@@ -5,9 +5,9 @@
 
 # you found me
 
+wow
 
-#I'm an amateur Python, Java, Shell programmer.
+#### I'm an amateur Python, Java, Shell programmer.
 
-#I try to be as active as I can!
+#### I try to be as active as I can!
 
-[my gists](https://gist.github.com/zeptofine)
