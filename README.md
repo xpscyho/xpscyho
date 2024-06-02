@@ -7,7 +7,7 @@
 
 wow
 
-#### I'm an amateur Python, Java, Shell programmer.
+#### I'm an amateur Python, Rust, Shell programmer.
 
 #### I try to be as active as I can!
 
